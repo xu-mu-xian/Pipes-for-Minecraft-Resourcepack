@@ -1,0 +1,130 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "pipes:font/source/source/1.png",
+      "height": 19,
+      "ascent": 0,
+      "chars": [
+        "a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pipes:font/source/source/2.png",
+      "height": 19,
+      "ascent": 0,
+      "chars": [
+        "b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pipes:font/source/source/3.png",
+      "height": 19,
+      "ascent": 0,
+      "chars": [
+        "c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pipes:font/source/source/4.png",
+      "height": 19,
+      "ascent": 0,
+      "chars": [
+        "d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pipes:font/source/straight/1.png",
+      "height": 19,
+      "ascent": 0,
+      "chars": [
+        "e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pipes:font/source/straight/2.png",
+      "height": 19,
+      "ascent": 0,
+      "chars": [
+        "f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pipes:font/source/turn/12.png",
+      "height": 19,
+      "ascent": 0,
+      "chars": [
+        "g"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pipes:font/source/turn/23.png",
+      "height": 19,
+      "ascent": 0,
+      "chars": [
+        "h"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pipes:font/source/turn/34.png",
+      "height": 19,
+      "ascent": 0,
+      "chars": [
+        "i"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pipes:font/source/turn/41.png",
+      "height": 19,
+      "ascent": 0,
+      "chars": [
+        "j"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pipes:font/source/trible/1.png",
+      "height": 19,
+      "ascent": 0,
+      "chars": [
+        "k"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pipes:font/source/trible/2.png",
+      "height": 19,
+      "ascent": 0,
+      "chars": [
+        "l"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pipes:font/source/trible/3.png",
+      "height": 19,
+      "ascent": 0,
+      "chars": [
+        "m"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pipes:font/source/trible/4.png",
+      "height": 19,
+      "ascent": 0,
+      "chars": [
+        "n"
+      ]
+    }
+  ]
+}

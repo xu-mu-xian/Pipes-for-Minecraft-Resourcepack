@@ -1,0 +1,21 @@
+{
+  "dialog.pipes.custom.height": "网格高度",
+  "dialog.pipes.custom.seed": "生成谜题的种子",
+  "dialog.pipes.custom.start_directly": "直接开始",
+  "dialog.pipes.custom.start_game": "开始游戏",
+  "dialog.pipes.custom.start_with_seed": "使用种子开始",
+  "dialog.pipes.custom.start_with_seed.tooltip": "生成固定的谜题",
+  "dialog.pipes.custom.warn": "原版默认的命令链上限最高只支持17 x 17大小的网格，若要生成更大的网格，请调整游戏规则max_command_sequence_length，否则地图将无法正常生成",
+  "dialog.pipes.custom.width": "网格宽度",
+  "dialog.pipes.game.complete": "已完成！",
+  "dialog.pipes.game.new_game": "新游戏",
+  "dialog.pipes.game.replay": "重玩",
+  "dialog.pipes.game.time": "用时：",
+  "dialog.pipes.game.title": "接水管 %s x %s  种子：%s",
+  "dialog.pipes.main.custom": "自定义",
+  "dialog.pipes.main.resume": "恢复",
+  "dialog.pipes.main.settings": "设置",
+  "dialog.pipes.settings.record": "是否显示游戏用时",
+  "item.pipes.pipes_trigger": "接水管触发器",
+  "item.pipes.pipes_trigger.fail": "当前游戏未启用自行触发接水管小游戏的功能"
+}

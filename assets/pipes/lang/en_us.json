@@ -1,0 +1,21 @@
+{
+  "dialog.pipes.custom.height": "Height of grid",
+  "dialog.pipes.custom.seed": "Seed for generating puzzles",
+  "dialog.pipes.custom.start_directly": "Start directly",
+  "dialog.pipes.custom.start_game": "Start game",
+  "dialog.pipes.custom.start_with_seed": "Start with seed",
+  "dialog.pipes.custom.start_with_seed.tooltip": "Generate fixed puzzles",
+  "dialog.pipes.custom.warn": "The default command sequence length supports grids up to 17 x 17. To generate larger grids, please adjust the game rule max_command_sequence_length; otherwise, the map will not be generated correctly.",
+  "dialog.pipes.custom.width": "Width of grid",
+  "dialog.pipes.game.complete": "Completed! ",
+  "dialog.pipes.game.new_game": "New game",
+  "dialog.pipes.game.replay": "Replay",
+  "dialog.pipes.game.time": "Time: ",
+  "dialog.pipes.game.title": "Pipes %s x %s  Seed: %s",
+  "dialog.pipes.main.custom": "Custom",
+  "dialog.pipes.main.resume": "Resume",
+  "dialog.pipes.main.settings": "Settings",
+  "dialog.pipes.settings.record": "Should game time be displayed?",
+  "item.pipes.pipes_trigger": "Pipes trigger",
+  "item.pipes.pipes_trigger.fail": "The game currently does not have the feature to actively trigger the pipes."
+}

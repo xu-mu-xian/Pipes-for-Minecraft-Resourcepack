@@ -1,0 +1,130 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "pipes:font/flooded/source/1.png",
+      "height": 19,
+      "ascent": 0,
+      "chars": [
+        "a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pipes:font/flooded/source/2.png",
+      "height": 19,
+      "ascent": 0,
+      "chars": [
+        "b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pipes:font/flooded/source/3.png",
+      "height": 19,
+      "ascent": 0,
+      "chars": [
+        "c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pipes:font/flooded/source/4.png",
+      "height": 19,
+      "ascent": 0,
+      "chars": [
+        "d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pipes:font/flooded/straight/1.png",
+      "height": 19,
+      "ascent": 0,
+      "chars": [
+        "e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pipes:font/flooded/straight/2.png",
+      "height": 19,
+      "ascent": 0,
+      "chars": [
+        "f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pipes:font/flooded/turn/12.png",
+      "height": 19,
+      "ascent": 0,
+      "chars": [
+        "g"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pipes:font/flooded/turn/23.png",
+      "height": 19,
+      "ascent": 0,
+      "chars": [
+        "h"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pipes:font/flooded/turn/34.png",
+      "height": 19,
+      "ascent": 0,
+      "chars": [
+        "i"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pipes:font/flooded/turn/41.png",
+      "height": 19,
+      "ascent": 0,
+      "chars": [
+        "j"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pipes:font/flooded/trible/1.png",
+      "height": 19,
+      "ascent": 0,
+      "chars": [
+        "k"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pipes:font/flooded/trible/2.png",
+      "height": 19,
+      "ascent": 0,
+      "chars": [
+        "l"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pipes:font/flooded/trible/3.png",
+      "height": 19,
+      "ascent": 0,
+      "chars": [
+        "m"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pipes:font/flooded/trible/4.png",
+      "height": 19,
+      "ascent": 0,
+      "chars": [
+        "n"
+      ]
+    }
+  ]
+}
