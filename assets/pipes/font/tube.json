@@ -134,6 +134,132 @@
       "chars": [
         "o"
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pipes:font/none/source/1_lock.png",
+      "height": 19,
+      "ascent": 0,
+      "chars": [
+        "A"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pipes:font/none/source/2_lock.png",
+      "height": 19,
+      "ascent": 0,
+      "chars": [
+        "B"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pipes:font/none/source/3_lock.png",
+      "height": 19,
+      "ascent": 0,
+      "chars": [
+        "C"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pipes:font/none/source/4_lock.png",
+      "height": 19,
+      "ascent": 0,
+      "chars": [
+        "D"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pipes:font/none/straight/1_lock.png",
+      "height": 19,
+      "ascent": 0,
+      "chars": [
+        "E"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pipes:font/none/straight/2_lock.png",
+      "height": 19,
+      "ascent": 0,
+      "chars": [
+        "F"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pipes:font/none/turn/12_lock.png",
+      "height": 19,
+      "ascent": 0,
+      "chars": [
+        "G"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pipes:font/none/turn/23_lock.png",
+      "height": 19,
+      "ascent": 0,
+      "chars": [
+        "H"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pipes:font/none/turn/34_lock.png",
+      "height": 19,
+      "ascent": 0,
+      "chars": [
+        "I"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pipes:font/none/turn/41_lock.png",
+      "height": 19,
+      "ascent": 0,
+      "chars": [
+        "J"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pipes:font/none/trible/1_lock.png",
+      "height": 19,
+      "ascent": 0,
+      "chars": [
+        "K"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pipes:font/none/trible/2_lock.png",
+      "height": 19,
+      "ascent": 0,
+      "chars": [
+        "L"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pipes:font/none/trible/3_lock.png",
+      "height": 19,
+      "ascent": 0,
+      "chars": [
+        "M"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pipes:font/none/trible/4_lock.png",
+      "height": 19,
+      "ascent": 0,
+      "chars": [
+        "N"
+      ]
     }
   ]
 }
